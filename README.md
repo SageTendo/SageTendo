@@ -1,5 +1,5 @@
 # "Hello there!" 🧔🏼🥋
 
 # Some stats stuff
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SageTendo&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SageTendo&layout=compact&theme=dark)
+![SageTendo's Stats](https://github-readme-stats.vercel.app/api?username=SageTendo&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![SageTendo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SageTendo&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
