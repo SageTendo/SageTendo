@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎓 **BSc Honours Degree in Computer Science**  
 - 👨‍💻 **Backend-focused**, fascinated by **low-level systems, compilers, interpreters, programming language design, emulation, and how things work under the hood.**  
-- 🎵 **When I'm not writing code, I’m crafting sounds in DAWs, lost in music or shows, or gaming.**  
+- 🎵 **When I'm not writing code, I’m crafting sounds in DAWs, lost in music or shows/anime, or gaming.**  
 - 🎮 **Strategy-driven**—whether it’s RPGs, tactical FPS, or a good game of chess.  
 - 🛹 **If I’m off-screen, I’m probably skateboarding.**  
 
