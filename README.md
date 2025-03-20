@@ -6,6 +6,11 @@
   <b>Interested in scalable systems, low-level programming, and compiler design.</b>
 </p>
 
+<div align="center" style="display: flex; justify-content: space-between; gap: 10px; max-width: 800px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true">    
+</div>
+
+
 ## 🚀 About Me  
 - 🎓 **BSc Honours Degree in Computer Science**  
 - 👨‍💻 **Backend-focused**, fascinated by **low-level systems, compilers, interpreters, programming language design, emulation, and how things work under the hood.**  
@@ -33,3 +38,6 @@
 ### 🤖 Machine Learning & Data Science  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  ![Gensim](https://img.shields.io/badge/-Gensim-4B8BBE?style=flat-square&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-32CD32?style=flat-square&logoColor=white)  
+
+---
+
