@@ -1,22 +1,13 @@
 <h1 align="center"> "Hello there!" 🧔🏼🥋 </h1>
-<div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 800px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true">    
-</div>
-<p align="left">  
-  <b>I'm Nyasha, a passionate developer who loves exploring ideas that spark my curiosity and tackling complex challenges.</b>  
-  <br>  
-  <b>Interested in scalable systems, low-level programming, and compiler design.</b>  
-</p>
+<h3 align="left"> 🚀 About Me </h3>
+I enjoy building things—especially the kind that challenge me to dig deep into how systems work. Which, of course, means I also enjoy breaking them (intentionally) to figure out how to make them better.
+<p>
 
-
-
-<h2 align="left"> 🚀 About Me </h2>
-
+**A few facts about me:**
 - 🎓 **BSc Honours Degree in Computer Science**  
-- 👨‍💻 **Backend-focused**, fascinated by **low-level systems, compilers, interpreters, programming language design, emulation, and how things work under the hood.**  
-- 🎵 **When I'm not writing code, I’m crafting sounds in DAWs, lost in music or shows/anime, or gaming.**  
-- 🎮 **Strategy-driven**—whether it’s RPGs, tactical FPS, or a good game of chess.  
-- 🛹 **If I’m off-screen, I’m probably skateboarding.**  
+- 👨‍💻 **Mild interest in low-level programming, compilers, interpreters, programming language design, emulation, and how things work under the hood.**  
+- 🎵 **When I'm not writing code, I’m crafting sounds in DAWs, playing chess, or immersed in RPGs and tactical FPS games.**  
+- 🛹 **When I'm off-screen, you’ll likely find me skateboarding**  
 
 <h2 align="left"> 🛠️ Tools  </h2>
 
@@ -37,3 +28,8 @@
 
 ---
 
+<div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 800px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true">    
+</div>
+
+<a href="https://u8views.com/github/SageTendo"><img src="https://u8views.com/api/v1/github/profiles/39864316/views/day-week-month-total-count.svg"></a>
