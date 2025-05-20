@@ -29,7 +29,8 @@ I enjoy building things—especially the kind that challenge me to dig deep into
 ---
 
 <div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 800px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true">    
+  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageTendo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 </div>
 
 <a href="https://u8views.com/github/SageTendo"><img src="https://u8views.com/api/v1/github/profiles/39864316/views/day-week-month-total-count.svg"></a>
