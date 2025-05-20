@@ -23,7 +23,7 @@ I enjoy building things—especially the kind that challenge me to dig deep into
 <b>Cloud & DevOps</b><br>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)  
 
-<b>Machine Learning & Data Science</b><br>
+<b>Data Science & Machine Learning</b><br>
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Gensim](https://img.shields.io/badge/-Gensim-4B8BBE?style=flat-square&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-32CD32?style=flat-square&logoColor=white)  
 
 ---
