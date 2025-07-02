@@ -1,6 +1,6 @@
 <h1 align="center"> "Hello there!" 🧔🏼🥋 </h1>
 <h3 align="left"> 🚀 About Me </h3>
-I enjoy building things—especially the kind that challenge me to dig deep into how systems work. Which, of course, means I also enjoy breaking them (intentionally) to figure out how to make them better.
+I enjoy building things, especially the kind that challenge me to dig deep into how systems work. Which, of course, means I also enjoy breaking them (intentionally) to figure out how to make them better.
 <p>
 
 **A few facts about me:**
