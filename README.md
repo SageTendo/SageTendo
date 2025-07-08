@@ -25,12 +25,3 @@ I enjoy building things, especially the kind that challenge me to dig deep into 
 
 <b>Data Science & Machine Learning</b><br>
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Gensim](https://img.shields.io/badge/-Gensim-4B8BBE?style=flat-square&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-32CD32?style=flat-square&logoColor=white)  
-
----
-
-<div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 800px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SageTendo&theme=dracula&show_icons=true&hide_border=true&count_private=true"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageTendo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-</div>
-
-<a href="https://u8views.com/github/SageTendo"><img src="https://u8views.com/api/v1/github/profiles/39864316/views/day-week-month-total-count.svg"></a>
